@@ -61,7 +61,7 @@ a:hover {
 
 p {
     text-align: justify;
-    margin: 2px 0px;
+    margin: 5px 0px;
     color: midnightblue;
 }
 
@@ -84,6 +84,4 @@ footer {
     align-items: center;
     letter-spacing: 0.5rem;
     color: teal;
-
-
 }
